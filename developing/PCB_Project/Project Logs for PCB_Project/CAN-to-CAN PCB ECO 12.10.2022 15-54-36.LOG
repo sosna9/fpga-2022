@@ -1,0 +1,4 @@
+Added Component: Designator=U4(RESC6332)
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=CAN-to-CAN Member=Component U4 PIC30F5011
+Added Room: Name=CAN-to-CAN
